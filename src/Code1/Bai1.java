@@ -8,7 +8,7 @@ package Code1;
  *
  * @author TGDD
  */
-public class Project4 {
+public class Bai1 {
 
     /**
      * @param args the command line arguments
